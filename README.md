@@ -2,6 +2,6 @@
  An interactive 3D particle background using THREE.JS.
 
 ## Demo
-![Demo Image](![This is an image](https://myoctocat.com/assets/images/base-octocat.svg))
+![Demo Image](https://raw.githubusercontent.com/jackkimmins/3D-Particle-Background/main/demo.png)
 
 [Visit the Demo Site](https://3d-particle-background.pages.dev/).
