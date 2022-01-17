@@ -1,0 +1,22 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    margin: 0;
+    height: 2500vh;
+    background-color: #110909;
+    background-image: radial-gradient(circle, #0c1729, #0e1323, #0d0e1e, #0b0818, #070212);
+}
+
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+main {
+    z-index: 99;
+    position: absolute;
+    color: white;
+}
